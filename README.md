@@ -7,7 +7,7 @@ An Omarchy theme built around a vintage-style illustration of a cross on a mount
 ## Install
 
 ```bash
-omarchy theme install https://github.com/<your-username>/omarchy-cross-mountain-theme
+omarchy theme install https://github.com/OutOfTheWhale/omarchy-cross-mountain-theme
 ```
 
 ## Palette
